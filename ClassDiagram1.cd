@@ -1,0 +1,1097 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CustomTypes" Collapsed="true">
+    <Position X="70.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAIAAAAAAAAAAAQIgAAAAAAAAAABAABAEAAAAAgMAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\CustomTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EncryptionDataParameters" Collapsed="true">
+    <Position X="72.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Extensions" Collapsed="true">
+    <Position X="63.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIEAAAAAAAAIAAIAAAAAAABAAIAQAgAEAAAAAQAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Extensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObjectExtensions" Collapsed="true">
+    <Position X="67.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Extensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendInfo" Collapsed="true">
+    <Position X="65.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEABAAAAQAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\FriendInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadBalancingPeer" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIAIAAQCAAAAAAAQQARiKgABAAAEAABAAQACAAAgE=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpJoinRandomRoomParams" Collapsed="true">
+    <Position X="74.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAABA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterRoomParams" Collapsed="true">
+    <Position X="74.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAQAgQAAAAAIAAAAAAAAgAAAAAAAAAABAAEAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorCode" Collapsed="true">
+    <Position X="76" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAADDA4JAAAEAAAAAABAAISAAwBAAAwAgAgBAMAAMgE=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActorProperties" Collapsed="true">
+    <Position X="62" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAgCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePropertyKey" Collapsed="true">
+    <Position X="69" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAAAAAAAAAFEAAABBAAAAAAAgAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventCode" Collapsed="true">
+    <Position X="62" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAsMAAQAJAAgAAAAAAACAAAEAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParameterCode" Collapsed="true">
+    <Position X="76" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AorABGJgyEqbBQggySBgBAqCAAAPiBEiYgokIFACGQg=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OperationCode" Collapsed="true">
+    <Position X="72.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAAQAAAAAoABAACAAYAAAEAEABAIAQBEEACAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomOptions" Collapsed="true">
+    <Position X="76" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAhAIAIQAgAAEQMAABEBghAAAABGAAAgQgAIACAASAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaiseEventOptions" Collapsed="true">
+    <Position X="72.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEQAAAAABAAAACAAIAABAAAEAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypedLobby" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAEAAAAIAQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypedLobbyInfo" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEABAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthenticationValues" Collapsed="true">
+    <Position X="65.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAIAAAAGAAAEAAAABAgAAAAAAAAABAAAAAABAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkingPeer" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jH3cIpC0wMrMaRe33H6wYKSEZaWLSl85RkLlH3dIlCg=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PunEvent" Collapsed="true">
+    <Position X="63.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAIAAAAAAAAAABRAAAARBAAAAAAAEMAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonStream" Collapsed="true">
+    <Position X="77.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAABABAAQGRAACAAABAAAQAAAAjAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneManagerHelper" Collapsed="true">
+    <Position X="77.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRpcResponse" Collapsed="true">
+    <Position X="67.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAgAAAQAAAAAAAAgAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonHandler" Collapsed="true">
+    <Position X="63.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQBEDAQCCQAAAAAAUAEAIAACIBAACAAFIBAAAgAAEA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonLagSimulationGui" Collapsed="true">
+    <Position X="65.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAACAAAAQAAABAAQAAAIAACAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonLagSimulationGui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonNetwork" Collapsed="true">
+    <Position X="67.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>TJb/UgPhJ1g5eIMDAOcxW3A24ABB1lafHAcJw0cSEQM=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonPlayer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="70.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAEgAAABQAgYREiIEAAAgCIAAMAoMgAAAAAAAkAAQ=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PhotonStatsGui" Collapsed="true">
+    <Position X="76" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AESCAAAAQCAAAAEAAAAAQAAAQAAAAAAAABCAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonStatsGui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonStreamQueue" Collapsed="true">
+    <Position X="62" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABABAAAAAAAAABAACBAABCwAAABAAREEAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonStreamQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonView" Collapsed="true">
+    <Position X="46" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SgkFqAQgAJAosEBMACQQQFAXAAAJAgAEKQAAAEABAMA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingMonoEditor" Collapsed="true">
+    <Position X="76" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PingCloudRegions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonPingManager" Collapsed="true">
+    <Position X="69" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAQAAAAAAEAACgAAAAAAgBIAAAAAAAAAAAECAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PingCloudRegions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Room" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAACAAAAAIAEAAEADBgCAQAAAgEAAAgAABoCgAACAQ=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomInfo" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oBIAAAAAAAQIEIAGiLAAAERAAAAEAIAgAAEICBEADAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\RoomInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PunRPC" Collapsed="true">
+    <Position X="67.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\RPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Region" Collapsed="true">
+    <Position X="74.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAAAAAAAAAEAEAgAAAAQAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\ServerSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerSettings" Collapsed="true">
+    <Position X="63.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAACABCAAAEAABgARRQAAgAAEAKIEABgAACCQA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\ServerSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonAnimatorView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="62" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACRAkRAAQIQAAAACgACIQAAQIgAAAlAIIAIBAAAADEA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonAnimatorView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PhotonRigidbody2DView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="72.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAQIAAAAAAAAAgAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonRigidbody2DView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PhotonRigidbodyView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="74.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAQIAAAAAAAAAgAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonRigidbodyView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PhotonTransformView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="63.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIUBEAAABAQAgCAAAAAAQCCCAIAAAAAQAAAAAAgACEA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PhotonTransformViewPositionControl" Collapsed="true">
+    <Position X="65.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQIQAADAIAAkAQAAAAAACQgAAgEAAAAAQAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewPositionControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonTransformViewPositionModel" Collapsed="true">
+    <Position X="67.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAIACogAAAAAEACUAAIAAIAAAAAAAAAAABAIAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewPositionModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonTransformViewRotationControl" Collapsed="true">
+    <Position X="69" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAAAAAAAAAQAAAAAAACAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewRotationControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonTransformViewRotationModel" Collapsed="true">
+    <Position X="70.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAQCAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewRotationModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonTransformViewScaleControl" Collapsed="true">
+    <Position X="72.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAAAAAAAAAAAAAwAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewScaleControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhotonTransformViewScaleModel" Collapsed="true">
+    <Position X="74.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAACAAAIAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewScaleModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConnectAndJoinRandom" Collapsed="true">
+    <Position X="50.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAACBAAAAAAECAAAAACAAAAAQAEAAAAAAAQAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\ConnectAndJoinRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CullArea" Collapsed="true">
+    <Position X="67.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAESABAAkACAACAAAYAUAAAAAEwAAAEEBAIIAEA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\CullArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellTree" Collapsed="true">
+    <Position X="69" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\CullArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellTreeNode" Collapsed="true">
+    <Position X="70.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACASAQAAAAkpBAAAAAQAAAAAAIAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\CullArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputToEvent" Collapsed="true">
+    <Position X="76" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAACECABAIAAABAACAAAgAAAQAAAQAAAABAAABA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\InputToEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InRoomChat" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAEAAAAAAAAAQACAAAAAgDAACQCAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\InRoomChat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualPhotonViewAllocator" Collapsed="true">
+    <Position X="62" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\ManualPhotonViewAllocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveByKeys" Collapsed="true">
+    <Position X="43.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAgAiAAAAAAAAAAAAABAQAAAAAAAABAAAAAQAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\MoveByKeys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkCullingHandler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="65.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAAACAAAAAQAACAEAgAAAQAQiAAQAACAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\NetworkCullingHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnClickDestroy" Collapsed="true">
+    <Position X="48.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAQCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\OnClickDestroy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnClickInstantiate" Collapsed="true">
+    <Position X="67.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAEAAAAAgAAAAACAAAAAAAAAACAAAAAAAQ=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\OnClickInstantiate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnJoinedInstantiate" Collapsed="true">
+    <Position X="69" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAAEAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\OnJoinedInstantiate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnStartDelete" Collapsed="true">
+    <Position X="70.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\OnStartDelete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickupItem" Collapsed="true">
+    <Position X="52.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAACAAAQAAQAIAAgQCAAAAEIAAAAQAAAAAgAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PickupItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PickupItemSimple" Collapsed="true">
+    <Position X="57.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAQAAEAAAAACAAAAAAAAAAQABAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PickupItemSimple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickupItemSyncer" Collapsed="true">
+    <Position X="59.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAAAGAAgAACAAAAAQAAAAAAAAAAEQAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PickupItemSyncer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointedAtGameObjectInfo" Collapsed="true">
+    <Position X="62" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PointedAtGameObjectInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PunPlayerScores" Collapsed="true">
+    <Position X="65.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PunPlayerScores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreExtensions" Collapsed="true">
+    <Position X="62" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAgAgAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PunPlayerScores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PunTeams" Collapsed="true">
+    <Position X="69" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACIAAAAAAAAAAAAAAAAgAAAMECACAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PunTeams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TeamExtensions" Collapsed="true">
+    <Position X="76" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PunTeams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PunTurnManager" Collapsed="true">
+    <Position X="28" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEQAAIAAECQAAIAEAEACBABAAAAAAAAEAAMIABAAgAQ=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PunTurnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurnExtensions" Collapsed="true">
+    <Position X="65.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAIABAAAACAAAAIAACAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PunTurnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuitOnEscapeOrBack" Collapsed="true">
+    <Position X="70.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\QuitOnEscapeOrBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShowStatusWhenConnecting" Collapsed="true">
+    <Position X="65.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAACAAAQAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\ShowStatusWhenConnecting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmoothSyncMovement" Collapsed="true">
+    <Position X="55" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAACAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAEA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\SmoothSyncMovement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SupportLogger" Collapsed="true">
+    <Position X="69" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\SupportLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupportLogging" Collapsed="true">
+    <Position X="70.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAABACACAAAAAAAACAAIAAAAAAAAIEEABAAAACQAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\SupportLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Character" Collapsed="true">
+    <Position X="39.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Characters\TCP_Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_CharacterMovementSyncScript" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BYAAAAAAECAAAAAEAACAYAAACAAAAAAAAAQAAAAARAI=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Network\TCP_CharacterMovementSyncScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_LobbyManager" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAQAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Network\TCP_LobbyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_SpawnManager" Collapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAABAAAAAAAAAAAAAACAAAAEAQgAAAgAUA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Network\TCP_SpawnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun" Collapsed="true">
+    <Position X="72.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQABAAAACAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\References\Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkManager" Collapsed="true">
+    <Position X="30.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgIAASGAEEAAAAAAAAAACgEQKCAABEAAAAAQAQQA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\References\NetworkManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerNetworkMover" Collapsed="true">
+    <Position X="32.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAACAgECAAAAAAAACAYAAAAAgAABQAAAQAAAAAAAo=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\References\PlayerNetworkMover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_CharacterController" Collapsed="true">
+    <Position X="72.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASBCAAAoICCAAEAAAAAACAAAAAAQAACBAAAIAABEQ=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\References\TCP_CharacterController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Skills_MarieDash" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Skills\MarieSkills\TCP_Skills_MarieDash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Skills_MarieMine" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEAEAAEQAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Skills\MarieSkills\TCP_Skills_MarieMine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Skills_SepeLighting" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAIAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Skills\SepeSkills\TCP_Skills_SepeLighting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Skills_SepeTackle" Collapsed="true">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAYAAAAAAAAAAgAAEAAAAAAAAAAIAAAAAAAgABA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Skills\SepeSkills\TCP_Skills_SepeTackle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Marie_Mine" Collapsed="true">
+    <Position X="41.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACIAwAAAAAAAEAAAAAAAAACIAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Skills\SkillObjects\MarieObjects\TCP_Marie_Mine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_SepeLighting" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAgAAAQAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Skills\SkillObjects\SepeObjects\TCP_SepeLighting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Skill_Core" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAECAAABEAFAAAAAAAAAAIAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Skills\TCP_Skill_Core.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_CharactersHealth" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAYACAAAEABgAAAQAAgAAAAgAAAAEAAAAAQAAg=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Systems\TCP_CharactersHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_StatusEffects" Collapsed="true">
+    <Position X="74.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAACAAAAAAAAAAAAABAAAAQAAAAYAAAAAABAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Systems\TCP_StatusEffects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_BasicGun" Collapsed="true">
+    <Position X="34.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Weapons\TCP_BasicGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_SepeWeapon" Collapsed="true">
+    <Position X="37" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAADAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Weapons\TCP_SepeWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCP_Weapon_Core" Collapsed="true">
+    <Position X="35.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQBBAAKADAAiAARAAAAAAAQAAAAAAABQAAIAAAgAAA=</HashCode>
+      <FileName>Assets\TcpAssets\Scripts\Weapons\TCP_Weapon_Core.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeadBob" Collapsed="true">
+    <Position X="74.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAEQICAAACAAAAQgAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\UnityAssets\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseLook" Collapsed="true">
+    <Position X="63.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAGACABAAAIAAAAAAggBEQAIAAAgEACACAACAAAA=</HashCode>
+      <FileName>Assets\UnityAssets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RigidbodyFirstPersonController" Collapsed="true">
+    <Position X="39.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAhAIgEiAIAEAAgAAgAEACAAACgAIIEAAAAAAUIQA=</HashCode>
+      <FileName>Assets\UnityAssets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CurveControlledBob" Collapsed="true">
+    <Position X="69" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAACAAAAAAAAASAwAAAAABASAAAABAABAAAAAA=</HashCode>
+      <FileName>Assets\UnityAssets\Standard Assets\Utility\CurveControlledBob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LerpControlledBob" Collapsed="true">
+    <Position X="77.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAABIgAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\UnityAssets\Standard Assets\Utility\LerpControlledBob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.GUI.GizmoTypeDrawer" Collapsed="true">
+    <Position X="70.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\GizmoType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Photon.MonoBehaviour" Collapsed="true">
+    <Position X="31.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Photon.PunBehaviour" Collapsed="true">
+    <Position X="23.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEIADAACAEJAAAAgAESCEIAAAAEAAAAEECKDAABCYAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExitGames.Client.Photon.SocketUdp" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="67.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAACAAAAAAAEAEAIAAAAACgAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\SocketUdp.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExitGames.UtilityScripts.PlayerRoomIndexing" Collapsed="true">
+    <Position X="25.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAACABAAAAAEAggEAUAIAAAEABAABAEEAIKAAAAAGA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PhotonPlayer\PlayerRoomIndexing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.UtilityScripts.PlayerRoomIndexingExtensions" Collapsed="true">
+    <Position X="77.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PhotonPlayer\PlayerRoomIndexing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.UtilityScripts.ButtonInsideScrollList" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="67.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\UI\ButtonInsideScrollList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExitGames.UtilityScripts.TextButtonTransition" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="77.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAgAAAIAAAAAQAAAEI=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\UI\TextButtonTransition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExitGames.UtilityScripts.TextToggleIsOnTransition" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="62" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAADAAggAEIAAAQAQAAKAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\UI\TextToggleIsOnTransition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExitGames.Client.DemoParticle.TimeKeeper" Collapsed="true">
+    <Position X="63.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAgAABAAAAIEAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\TimeKeeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.ChatChannel" Collapsed="true">
+    <Position X="72.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAIAAAAAQAAAAAAAAAAABAQAAAAAAAAAAAAoAQAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatChannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.ChatClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="74.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAYBAAADNEiAAC0QBwAEQLiAgJQCwKwURAAEVAQYGBA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatClient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.ChatEventCode" Collapsed="true">
+    <Position X="76" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIACAEAAAACBAAAAAAAAAAAAACAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatEventCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.ChatOperationCode" Collapsed="true">
+    <Position X="77.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAEAAACIAAEQCAAAASAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatOperationCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.ChatParameterCode" Collapsed="true">
+    <Position X="62" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAkBAAAAAEAAAAABAhAAAAAAAIAAAAAKQAIFAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatParameterCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.ChatPeer" Collapsed="true">
+    <Position X="63.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEABAAAAAAAAQAAAAAQoACAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.AuthenticationValues" Collapsed="true">
+    <Position X="63.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAIAAAAGAAAEAAAABAgAAAAAAAAABAAAAAABAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.ParameterCode" Collapsed="true">
+    <Position X="77.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAQAAAAoAAAAACAACAAAAIAAAGAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.ErrorCode" Collapsed="true">
+    <Position X="77.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABDAgIAAAAAAAAAAAAAISAAQBAAAQAgAABAEAAEAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatPeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitGames.Client.Photon.Chat.ChatUserStatus" Collapsed="true">
+    <Position X="65.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAEQAIAAEAACAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatUserStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PhotonMessageInfo" Collapsed="true">
+    <Position X="62" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAAAAAAAAAEAAAAAAAAAgCAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="IPunObservable" Collapsed="true">
+    <Position X="65.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPunCallbacks" Collapsed="true">
+    <Position X="63.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEIADAACAEJAAAAgAESCEIAAAAEAAAAEECKDAABCYAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPunPrefabPool" Collapsed="true">
+    <Position X="67.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPunTurnManagerCallbacks" Collapsed="true">
+    <Position X="69" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAACAAAAAAAAAAAAAAAAAAAIAQAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\UtilityScripts\PunTurnManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ExitGames.Client.Photon.Chat.IChatClientListener" Collapsed="true">
+    <Position X="62" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIQAAIAAAAAABAAAACAAAAAgAIAAAAACAAAABA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\IChatClientListener.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="PhotonNetworkingMessage" Collapsed="true">
+    <Position X="63.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEIADAACAEJAAAAgAESCUIAAAAEAAAAEECKDAABCYAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PhotonLogLevel" Collapsed="true">
+    <Position X="62" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PhotonTargets" Collapsed="true">
+    <Position X="65.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAIAAQAAAAAAAkAAAIAAgAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CloudRegionCode" Collapsed="true">
+    <Position X="69" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABgAUAQAAAAAAAiAAAAAAAAACAAAABAAAAQAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CloudRegionFlag" Collapsed="true">
+    <Position X="70.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAUAQAAAAAAAiAAAAAAAAACAAAABAAAAQAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConnectionState" Collapsed="true">
+    <Position X="72.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAAAgAAQAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EncryptionMode" Collapsed="true">
+    <Position X="62" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="JoinMode" Collapsed="true">
+    <Position X="67.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAICAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MatchmakingMode" Collapsed="true">
+    <Position X="72.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ReceiverGroup" Collapsed="true">
+    <Position X="69" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EventCaching" Collapsed="true">
+    <Position X="63.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAIIEAAAAAAAAAggAAQAAAgCAAACAAAAg=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PropertyTypeFlag" Collapsed="true">
+    <Position X="67.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAAAEAAEAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LobbyType" Collapsed="true">
+    <Position X="70.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAIAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AuthModeOption" Collapsed="true">
+    <Position X="62" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABACAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CustomAuthenticationType" Collapsed="true">
+    <Position X="76" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAgAAAAAAAAAAEAAAAAAGAAAAAAAABAAAEAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClientState" Collapsed="true">
+    <Position X="67.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgASgACAAgDKAAAAhAAAAAAUAAAABAAAAAAAgYAQAg=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="JoinType" Collapsed="true">
+    <Position X="69" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DisconnectCause" Collapsed="true">
+    <Position X="77.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAFACwAAAAAAAEAAQAAAAAEAAAAAAAAAIBAAAAAEAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ServerConnection" Collapsed="true">
+    <Position X="70.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAEAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ViewSynchronization" Collapsed="true">
+    <Position X="72.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OnSerializeTransform" Collapsed="true">
+    <Position X="76" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAgAAAAAAAAQAAAAAAIAAAAAAIAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OnSerializeRigidBody" Collapsed="true">
+    <Position X="74.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OwnershipOption" Collapsed="true">
+    <Position X="77.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAEAAAABAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExitGames.Client.GUI.GizmoType" Collapsed="true">
+    <Position X="65.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAIAAAAAAAQAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\Photon Unity Networking\Plugins\PhotonNetwork\GizmoType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExitGames.Client.Photon.Chat.ChatDisconnectCause" Collapsed="true">
+    <Position X="63.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFBAgAAAAAAAAAAAAAAAAAEgBAAAAAAIBAAAEAEAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatDisconnectCause.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExitGames.Client.Photon.Chat.CustomAuthenticationType" Collapsed="true">
+    <Position X="74.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAgAAAAAAAAAAEAAAAAAGAAAAAAAABAAAEAAAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatPeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExitGames.Client.Photon.Chat.ChatState" Collapsed="true">
+    <Position X="65.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAACAAgADAAAAgAIAAAAEAAAAQAAAAAAAgQAQAA=</HashCode>
+      <FileName>Assets\PhotonAssets\PhotonChatApi\ChatState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

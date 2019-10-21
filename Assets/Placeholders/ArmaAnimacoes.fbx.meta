@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 3a58c04fe155daf4b9a667213d40ff63
+timeCreated: 1500340138
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArmaSinlgeObj
+    100004: Camara
+    100006: Camara_end
+    100008: Cao
+    100010: Cao_end
+    100012: Cilindro
+    100014: Cilindro.001
+    100016: Cilindro.002
+    100018: Cilindro.003
+    100020: EsqueletoArmaScifi03
+    100022: Gatilho
+    100024: Gatilho_end
+    100026: Principal
+    100028: Slider
+    100030: Slider_end
+    400000: //RootNode
+    400002: ArmaSinlgeObj
+    400004: Camara
+    400006: Camara_end
+    400008: Cao
+    400010: Cao_end
+    400012: Cilindro
+    400014: Cilindro.001
+    400016: Cilindro.002
+    400018: Cilindro.003
+    400020: EsqueletoArmaScifi03
+    400022: Gatilho
+    400024: Gatilho_end
+    400026: Principal
+    400028: Slider
+    400030: Slider_end
+    2300000: Cilindro
+    2300002: Cilindro.001
+    2300004: Cilindro.002
+    2300006: Cilindro.003
+    3300000: Cilindro
+    3300002: Cilindro.001
+    3300004: Cilindro.002
+    3300006: Cilindro.003
+    4300000: ArmaSinlgeObj
+    4300002: Cilindro.003
+    4300004: Cilindro.002
+    4300006: Cilindro
+    4300008: Cilindro.001
+    7400000: EsqueletoArmaScifi03|ArmaTiroCabum
+    7400002: EsqueletoArmaScifi03|ArmaTiroComum
+    7400004: EsqueletoArmaScifi03|ArmaTiroLazer01
+    7400006: EsqueletoArmaScifi03|ArmaTiroLazer02
+    7400008: EsqueletoArmaScifi03|ArmaTrocaDeArma
+    9500000: //RootNode
+    13700000: ArmaSinlgeObj
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
